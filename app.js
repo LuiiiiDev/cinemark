@@ -5,6 +5,7 @@ import clientesRoutes from './src/routes/clientesRoutes.js'
 import peliculasRoutes from './src/routes/peliculasRoutes.js'
 import registerClientsRoutes from './src/routes/registerClientsRoutes.js'
 import registerEmployeesRoutes from './src/routes/registerEmployees.js'
+import passwordRecoveryRoutes from './src/routes/passwordRecoveryRoutes.js'
 
 
 const app = express()
